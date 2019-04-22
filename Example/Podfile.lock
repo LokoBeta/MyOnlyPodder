@@ -1,0 +1,16 @@
+PODS:
+  - MyOnlyPodder (0.1.0)
+
+DEPENDENCIES:
+  - MyOnlyPodder (from `../`)
+
+EXTERNAL SOURCES:
+  MyOnlyPodder:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyOnlyPodder: 6029f5f344dec80cc3d3aae6fe6fa6a12ba02bd6
+
+PODFILE CHECKSUM: b59405a56a61f473bc49d838fd466e703cfe8159
+
+COCOAPODS: 1.6.1
