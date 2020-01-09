@@ -7,7 +7,7 @@
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.1233455
+To run the example project, clone the repo, and run `pod install` from the Example directory first.1233455   566666
 
 ## Requirements
 
